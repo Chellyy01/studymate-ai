@@ -114,4 +114,4 @@ The application implementation and deployment will follow the architecture defin
 
 The application will be deployed through **Vercel** with the GitHub repository connected for automatic deployments.
 
-**Live URL:** Coming soon.
+**Live URL:** https://vercel.com/chellys-projects1/studymate-ai/2ivJEiDSEvpLx2bx5ZeXUyacnV2R
